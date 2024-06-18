@@ -1,0 +1,53 @@
+.Cripto{
+    width: 100%;
+    border-radius: 5px;
+    background-color: white;
+    height: 150px;
+    display: flex;
+    margin: 5px;
+    border: solid 1px black;
+    position: relative;
+}
+p{
+    padding-top: 40px;
+    text-align: center;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 6px;
+}
+.imagem{
+    height: 60%;
+    padding-top: 30px;
+    padding-left: 43%;
+}
+img, p{
+    display: inline-block;
+}
+#th{
+    padding-left: 48%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-top: 30px;
+    position: absolute;
+}
+#bit{
+    padding-left: 48%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-top: 30px;
+    position: absolute;
+}
+#lite{
+    padding-left: 48%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-top: 30px;
+    position: absolute;
+}
+#doge{
+    padding-left: 48%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-top: 30px;
+    position: absolute;
+}
